@@ -3,7 +3,7 @@ slug: create-a-mongodb-replica-set
 author:
   name: Linode
   email: docs@linode.com
-description: Configure a MongoDB Replica Set
+description: This guide shows you how to create a MongoDB replica set on Linux using Ubuntu 16.04 and CentOS 7.
 keywords: ["mongodb", "nosql", "clusters", "replica set"]
 license: '[CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0)'
 modified_by:

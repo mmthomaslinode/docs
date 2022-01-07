@@ -4,7 +4,7 @@ deprecated: true
 author:
   name: Linode
   email: docs@linode.com
-description: 'Build a groupware system with eGroupware.'
+description: 'Learn how to build a groupware system with eGroupware on Fedora 13 with this guide.'
 keywords: ["groupware", "email", "collaboration", "fedora"]
 tags: ["fedora", "email", "lamp"]
 license: '[CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0)'
