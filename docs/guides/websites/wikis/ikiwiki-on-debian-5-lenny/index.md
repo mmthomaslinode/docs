@@ -4,7 +4,7 @@ deprecated: true
 author:
   name: Linode
   email: docs@linode.com
-description: 'Use Ikiwiki on Debian to power a standard wiki implementation.'
+description: 'This guide shows you how to install, configure, and use the free and open-source Wiki app - Ikiwiki - on Debian 5 to power a standard wiki implementation.'
 keywords: ["ikiwiki debian lenny", "ikiwiki debian 5", "ikiwiki", "wiki", "perl", "git", "markdown", "debian"]
 tags: ["wiki","debian"]
 license: '[CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0)'

@@ -3,8 +3,8 @@ slug: how-to-upgrade-from-centos-7-to-centos-8
 author:
   name: Linode
   email: docs@linode.com
-description: 'Instructions for upgrading from CentOS 7 to CentOS 8.'
-og_description: 'Instructions for upgrading from CentOS 7 to CentOS 8.'
+description: 'This guide shows you how to upgrade your system from CentOS version 7 to CentOS version 8, including how to backup your installation, create a new one, and migrate.'
+og_description: 'This guide shows you how to upgrade your system from CentOS version 7 to CentOS version 8, including how to backup your installation, create a new one, and migrate.'
 keywords: ["upgrade", "centos8", "centos7", "upgrade centos", "centos"]
 tags: ["centos"]
 license: '[CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0)'

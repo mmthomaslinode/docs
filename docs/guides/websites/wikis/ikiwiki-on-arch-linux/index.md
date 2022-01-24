@@ -4,7 +4,7 @@ deprecated: true
 author:
   name: Linode
   email: docs@linode.com
-description: 'Using Ikiwiki on Arch Linux to power a standard wiki implementation.'
+description: 'This guide shows you how to install, configure, and use the free and open-source Wiki app - Ikiwiki - on Arch linux to power a standard wiki implementation.'
 keywords: ["ikiwiki", "ubuntu", "wiki", "perl", "git", "markdown", "lucid"]
 license: '[CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0)'
 aliases: ['/websites/wikis/ikiwiki-on-arch-linux/','/web-applications/wikis/ikiwiki/arch-linux/']

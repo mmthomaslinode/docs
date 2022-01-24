@@ -3,8 +3,8 @@ slug: how-to-install-the-linode-block-storage-csi-driver
 author:
   name: Linode Community
   email: docs@linode.com
-description: 'How to Install the Linode Block Storage CSI Driver.'
-og_description: 'How to Install the Linode Block Storage CSI Driver.'
+description: 'This guide shows you how to install the Linode Block Storage CSI Driver to enable Kubernetes to use Linode Block Storage Vlumes in your deployment.'
+og_description: 'This guide shows you how to install the Linode Block Storage CSI Driver to enable Kubernetes to use Linode Block Storage Vlumes in your deployment.'
 keywords: ['container','kubernetes','block','storage','volume','csi','interface','driver']
 tags: ["linode platform","kubernetes","container"]
 license: '[CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0)'

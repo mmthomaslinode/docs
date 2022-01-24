@@ -3,7 +3,7 @@ slug: how-to-install-rooknfs-on-lke
 author:
   name: Linode
   email: docs@linode.com
-description: 'How to install Rook NFS on LKE.'
+description: 'This guide shows how to install Rook NFS, an application that allows remote hosts to mount filesystems over a network and interact with them, using LKE.'
 keywords: ['rooknfs','kubernetes', 'lke', 'linode kubernetes engine']
 tags: ["docker","kubernetes","container","nginx","linode platform"]
 license: '[CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0)'

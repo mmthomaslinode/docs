@@ -3,7 +3,7 @@ slug: how-to-use-marketplace-apps-at-linode
 author:
   name: Linode Community
   email: docs@linode.com
-description: 'How to deploy a Marketplace App using the Linode Cloud Manager.'
+description: 'This guide shows you how to deploy a variety of different hosted applications using the Marketplace Apps within the Linode Cloud Manager interface.'
 keywords: ['manager','cloud','app','one click', 'marketplace']
 license: '[CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0)'
 published: 2019-03-26

@@ -3,7 +3,7 @@ slug: how-to-use-wget
 author:
   name: Angel
   email: docs@linode.com
-description: 'This Quick Answer guide will explain how to use wget.'
+description: 'This guide shows you how to download files from the internet using the command-line based application wget, which is typically installed on most distros.'
 keywords: ["linux", "how to", "grep", "wget"]
 aliases: ['/quick-answers/linux/how-to-use-wget/','/quick-answers/how-to-use-wget/']
 license: '[CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0)'

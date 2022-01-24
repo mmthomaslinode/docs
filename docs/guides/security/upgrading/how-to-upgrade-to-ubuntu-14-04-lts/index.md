@@ -3,7 +3,7 @@ slug: how-to-upgrade-to-ubuntu-14-04-lts
 author:
   name: Dave Russell
   email: drussell@linode.com
-description: 'Our guide to upgrading to Ubuntu 14.04 LTS'
+description: 'This guide shows you how to keep operating system up-to-date by upgrading from Ubuntu 12.04 "Precise Pangolin" to Ubuntu 14.04 "Trusty Tahr".'
 keywords: ["upgrading", "ubuntu", "ubuntu 14.04"]
 tags: ["security","ubuntu"]
 license: '[CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0)'

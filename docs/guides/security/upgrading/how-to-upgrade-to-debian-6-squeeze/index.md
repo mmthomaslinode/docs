@@ -4,7 +4,7 @@ deprecated: true
 author:
   name: Linode
   email: docs@linode.com
-description: 'How to upgrade from Debian 5 (Lenny) to Debian 6 (Squeeze).'
+description: 'This guide shows you how to keep your Linux operating system up-to-date by upgrading your system from Debian 5 "Lenny" to Debian 6 "Squeeze".'
 keywords: ["debian upgrade", "upgrade distro", "squeeze upgrade", "squeeze"]
 tags: ["security","debian"]
 license: '[CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0)'

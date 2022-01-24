@@ -3,7 +3,7 @@ slug: how-to-use-docker-compose
 author:
   name: Linode
   email: docs@linode.com
-description: "How to Use Docker Compose"
+description: 'This guide shows you how to run multiple applications within a Docker container by using Docker Compose to create a custom configuration file for the container.'
 keywords: ["docker", "compose"]
 tags: ["container","docker"]
 license: '[CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0)'

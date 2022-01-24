@@ -3,7 +3,7 @@ slug: how-to-use-head
 author:
   name: Phil Zona
   email: docs@linode.com
-description: 'View the beginning of a text file with the head command.'
+description: 'This guide shows you how to show the beginning of text files using the head command, which is useful when analyzing logs or other files that change over time.'
 keywords: ["linux", "how to", "head", "first lines", "file"]
 license: '[CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0)'
 aliases: ['/quick-answers/linux/how-to-use-head/','/quick-answers/how-to-use-head/']

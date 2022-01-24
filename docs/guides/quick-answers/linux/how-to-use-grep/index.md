@@ -3,7 +3,7 @@ slug: how-to-use-grep
 author:
   name: Phil Zona
   email: docs@linode.com
-description: "Use the grep command to filter output from administrative commands, so you get only relevant data. This guide shows you how. ✓ Click to learn today!"
+description: "This guide shows you how to use the grep command to filter output from administrative commands, so you only see relevant data when searching your system via the CLI."
 keywords: ["linux", "how to", "grep", "filter"]
 aliases: ['/quick-answers/linux/how-to-use-grep/','/quick-answers/how-to-use-grep/']
 license: '[CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0)'

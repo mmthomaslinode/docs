@@ -2,8 +2,8 @@
 slug: install-anaconda-on-linux-centos-8-stream
 author:
   name: Cameron Laird
-description: 'Learn how to install Anaconda on a Linux CentOS distribution.'
-og_description: 'Learn how to install Anaconda on Linux CentOS distribution.'
+description: 'This guide will show you how to install Anaconda, a distribution of the Python and R programming languages widely used in scientific computing, on CentOS 8 Stream.'
+og_description: 'This guide will show you how to install Anaconda, a distribution of the Python and R programming languages widely used in scientific computing, on CentOS 8 Stream.'
 keywords: ['anaconda linux']
 tags: ['python', 'centos']
 license: '[CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0)'

@@ -3,7 +3,7 @@ slug: how-to-use-object-storage
 author:
   name: Linode Community
   email: docs@linode.com
-description: "Get started using Linode's Object Storage."
+description: "This guide shows how you can use Linode''s Object Storage, a S3 compatible method for accessing and retrieving data over the web, useful for hosted files."
 keywords: ['object','storage','bucket']
 tags: ["linode platform","cloud manager"]
 license: '[CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0)'

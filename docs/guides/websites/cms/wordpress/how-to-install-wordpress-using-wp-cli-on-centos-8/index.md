@@ -3,8 +3,8 @@ slug: how-to-install-wordpress-using-wp-cli-on-centos-8
 author:
     name: Linode Community
     email: docs@linode.com
-description: 'Install WordPress Using WP-CLI on CentOS 8'
-og_description: 'Install WordPress Using WP-CLI on CentOS 8'
+description: 'This guide shows how to install WordPress using WP-CLI, a command line interface for WordPress which you can use to install, configure, and manage WordPress, on CentOS 8.'
+og_description: 'This guide shows how to install WordPress using WP-CLI, a command line interface for WordPress which you can use to install, configure, and manage WordPress, on CentOS 8.'
 keywords: ["install WP-CLI", "centos", "wordpress", "apache", "bash completion", "plugin", "WP-CLI", "themes"]
 tags: ["centos","wordpress","cms","lamp"]
 license: '[CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0)'

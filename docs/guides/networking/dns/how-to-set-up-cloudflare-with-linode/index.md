@@ -3,7 +3,7 @@ slug: how-to-set-up-cloudflare-with-linode
 author:
   name: Nathan Melehan
   email: nmelehan@linode.com
-description: 'Learn how to use Cloudflare with a website running on Linode.'
+description: 'This guide shows you how to use Cloudflare, a free CDN for websites, APIs, and other apps hosted on the web, with your website running on a Linode.'
 keywords: ["cloudflare", "dns"]
 license: '[CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0)'
 modified: 2018-06-26

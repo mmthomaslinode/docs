@@ -4,7 +4,7 @@ deprecated: true
 author:
   name: Linode
   email: docs@linode.com
-description: 'How to upgrade from Ubuntu 11.04 (Natty) to Ubuntu 11.10 (Oneiric).'
+description: 'This guide shows you how to keep your Linux operating system up-to-date by upgrading your OS version from Ubuntu 11.04 "Natty" to Ubuntu 11.10 "Oneiric".'
 keywords: ["ubuntu 11.10 upgrade", "ubuntu oneiric upgrade", "distro upgrade", "linux upgrade howto"]
 tags: ["security","ubuntu"]
 license: '[CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0)'
