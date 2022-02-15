@@ -1,6 +1,6 @@
 ---
 title: Resources
-description: "Resources and other information related to Linode Object Storage including videos, blog posts, community posts, customer stories, ebooks, and press releases."
+description: "These guides contain resources and other information related to Linode's Object Storage service, including how-to videos, guides, blog posts, and more. "
 tab_group_main:
     weight: 40
 ---

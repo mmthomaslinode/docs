@@ -1,6 +1,6 @@
 ---
 title: Images
-description: "Custom Images allow for rapid deployments of preconfigured disks to new or existing Compute Instances. They can be easily created by capturing a disk on an existing Instnace or uploading an image file."
+description: "Linode's custom images feature allows for rapid systems deployment of preconfigured disks to new or existing Compute Instances of all types. "
 keywords: ["linode Images", "imagize"]
 tags: ["linode platform","cloud manager"]
 license: '[CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0)'

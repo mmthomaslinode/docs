@@ -1,6 +1,6 @@
 ---
 title: Linode API
-description: "The Linode API allows you to build the apps you want and programmitically manage your account. It offers secure authentication and third-party integrations and plugins."
+description: "The Linode API allows you to build the apps you want and programmatically manage your Linode account. It also offers secure authentication, such as 2FA."
 tab_group_main:
     is_root: true
     title: Overview

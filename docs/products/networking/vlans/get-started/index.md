@@ -1,6 +1,6 @@
 ---
 title: Get Started
-description: "Use the Linode Cloud Manager to create a VLAN and attach a Linode to it. When a Linode is attached to a VLAN and configured, it has access to the VLAN's secure and private network."
+description: "These guides will help you get started with using the Linode Cloud Manager to create a VLAN and attach it to a Linode so it has access to the new private network."
 tab_group_main:
     weight: 20
 ---

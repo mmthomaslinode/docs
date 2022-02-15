@@ -1,6 +1,6 @@
 ---
 title: Guides
-description: "Learn the basics of adding and managing Domains and DNS records using the DNS manager. You can also find guides that take a deep dive into DNS records, common DNS configurations, and other more advanced topics."
+description: "This guide will teach the basics of adding and managing Domains and DNS records using the Linode DNS Manager. You can also find guides that deep dive into DNS."
 tab_group_main:
     weight: 30
 ---

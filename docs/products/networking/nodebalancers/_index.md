@@ -1,6 +1,6 @@
 ---
 title: NodeBalancers
-description: "Linode's managed cloud-based load balancing service, designed to provide high availability and horizontal scaling to any application."
+description: "Linode's managed cloud-based load balancing service is designed to provide high availability and horizontal scaling to any application so you can keep up with demand."
 tab_group_main:
     is_root: true
     title: Overview

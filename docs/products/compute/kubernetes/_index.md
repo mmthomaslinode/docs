@@ -1,6 +1,6 @@
 ---
 title: Linode Kubernetes Engine
-description: "Linode Kubernetes Engine is a managed Kubernetes service that offers automatic backup and recovery and third party integration with popular k8s-related tools."
+description: "Linode Kubernetes Engine (LKE) is a managed Kubernetes service which offers automatic backup and recovery, as well as third-party integrations with popular k8s tools."
 linkTitle: Kubernetes
 tab_group_main:
     is_root: true

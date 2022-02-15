@@ -1,6 +1,6 @@
 ---
 title: Guides
-description: "Follow our Virtual LAN guides to learn how to perform basic tasks using the Linode Cloud Manager, like creating a VLAN, attaching Linodes to your VLAN, viewing your VLAN's networking details, and more."
+description: "Follow these guides on Linode VLAN to learn how to perform basic tasks using the Lindoe Cloud Manager, such as creating a VLAN and attaching it to a Linode."
 tab_group_main:
     weight: 30
 ---

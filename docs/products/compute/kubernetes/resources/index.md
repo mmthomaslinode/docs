@@ -1,6 +1,6 @@
 ---
 title: Resources
-description: "Resources and other information related to Linode Kubernetes Engine (LKE) including videos, blog posts, community posts, customer stories, ebooks, and press releases."
+description: "This section contains resources and other information related to Linode Kubernetes Engine (LKE) including videos, blog posts, community posts, and more."
 tab_group_main:
     weight: 40
 ---

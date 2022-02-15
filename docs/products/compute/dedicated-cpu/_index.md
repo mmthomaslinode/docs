@@ -2,7 +2,7 @@
 title: Dedicated CPU Instances
 linkTitle: Dedicated CPU
 toc: true
-description: "Dedicated CPU Compute Instances are virtual machines that provide gauranteed CPU resources. They are ideal for a variety of production applications and CPU-intensive workloads."
+description: "Linode's Dedicated CPU Compute Instances are virtual machines that provide you with guaranteed CPU resources to run your websites and applications."
 tab_group_main:
     is_root: true
     title: Overview

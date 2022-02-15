@@ -1,14 +1,14 @@
 ---
 title: VLANs
 linkTitle: VLANs
-description: "Linode VLANs enable secure and private communication across Linodes within the same data center region. This free service is a great way to keep your cloud workloads secure. VLANs are easy to create using the Linode Cloud Manager, API, and CLI."
+description: "Linode VLANs (Virtual Local Area Network) is a feature that enable secure and private communications across Linodes within the same Data Center region."
 tab_group_main:
     is_root: true
     title: Overview
     weight: 10
 cascade:
     date: 2020-10-22
-    product_description: "Linode’s VLANs (Virtual Local Area Networks) feature allows you to create private L2 networks in the cloud where Linodes can communicate privately and securely. Two or more Linodes connected via the VLAN can see each other as if they were directly connected to the same physical Ethernet network."
+    product_description: "Linode VLANs (Virtual Local Area Network) is a feature that enable secure and private communications across Linodes within the same Data Center region."
 ---
 
 ## Availability

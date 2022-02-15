@@ -1,6 +1,6 @@
 ---
 title: Cloud Firewall
-description: "Linode Cloud Firewall offers a simple interface to protect your web apps. It is scalable security in seconds, allowing you to create custom firewall rules, making security more accessible."
+description: "Linode Cloud Firewall offers a simple interface to protect your servers and web applications. The firewall is easily scalable and allows you to create custom rules."
 tab_group_main:
     is_root: true
     title: Overview

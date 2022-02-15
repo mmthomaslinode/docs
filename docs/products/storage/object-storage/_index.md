@@ -1,6 +1,6 @@
 ---
 title: Object Storage
-description: "Linode Object Storage is S3-compatible, doesn't require a Linode, and allows you to host static sites."
+description: "Linode's Object Storage is a S3-compatible object storage service which doesn't require a Linode, and allows you to host static websites or content. "
 tab_group_main:
     is_root: true
     title: Overview
